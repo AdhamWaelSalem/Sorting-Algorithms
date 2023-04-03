@@ -1,0 +1,3 @@
+C:/Users/adham/OneDrive/Desktop/Education/Term 6/Data Structures II/Projects/Sorting Techniques/Program/SortingTechniques/cmake-build-debug/CMakeFiles/SortingTechniques.dir
+C:/Users/adham/OneDrive/Desktop/Education/Term 6/Data Structures II/Projects/Sorting Techniques/Program/SortingTechniques/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adham/OneDrive/Desktop/Education/Term 6/Data Structures II/Projects/Sorting Techniques/Program/SortingTechniques/cmake-build-debug/CMakeFiles/rebuild_cache.dir
